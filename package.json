@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  },
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Projet discord ",
+  "main": "main.js",
+  "repository": "https://github.com/GalaXyXxX/bot-warsiize.git",
+  "author": "<mthstitou@gmail.com>",
+  "license": "MIT"
+}
